@@ -1,4 +1,18 @@
-## Hi there 👋
+# Hi, I'm Chetan Sharma
+
+Aspiring Data Analyst based in Noida, India.
+
+## What I'm learning
+- Excel
+- SQL
+- Power BI
+- Python
+
+## Goal
+To become a Data Analyst and build real projects with business data.
+
+## Follow my journey
+Notes and projects: data-analytics-journey
 
 <!--
 **Sharma-chetan-data/Sharma-chetan-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
